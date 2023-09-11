@@ -43,7 +43,7 @@ This e-commerce website leverages original, creative, fun designs, graphics and 
 
 ### Backend project repo
 
-[⚙️Devstyle backend here](https://github.com/artemesian/devstyle-backend)
+[⚙️Devstyle backend here](https://github.com/dev-style/devstyle-backend)
 
 ### Tech
 
